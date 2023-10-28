@@ -1,0 +1,5 @@
+order_id,order_date,order_customer_id,order_status
+1,00:00.0,11599,CLOSED
+2,00:00.0,256,PENDING_PAYMENT
+3,00:00.0,12111,COMPLETE
+4,00:00.0,8827,CLOSED
